@@ -1,5 +1,7 @@
 # Keyword List Generator
 
+<center><img src="./image/keyword-list-generator-logo.jpg" width="500" alt="Keyword List generator"></center>
+
 *You* provide the text.
 
 *We* make a list of keywords from it.
