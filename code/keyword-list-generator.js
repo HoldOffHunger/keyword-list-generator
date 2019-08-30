@@ -2041,12 +2041,6 @@ $(document).ready(function(e){
 			'm',
 			'mm',
 			'mmm',
-			'mv',
-			'v',
-			'vm',
-			'vmm',
-			'vmmm',
-			'mx',
 		];
 	}
 	
